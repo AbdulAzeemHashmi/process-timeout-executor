@@ -4,7 +4,9 @@ A C-based process runner with a Bash log analyzer, built for an Operating System
 
 ---
 
-**Student:** Abdul Azeem | **ID:** i24-2013 | **Course:** Operating Systems Lab
+**Student:** Abdul Azeem 
+**ID:** i24-2013  
+**Course:** Operating Systems
 
 ---
 
