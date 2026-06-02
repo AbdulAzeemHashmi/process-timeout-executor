@@ -1,6 +1,6 @@
 # Operating Systems Assignment
 
-A C-based process runner with a Bash log analyzer, built for an Operating Systems course assignment. The runner reads shell commands from a file, executes each in a child process with a configurable timeout, and records the result. The analyzer parses the output log and produces a summary report.
+A C-based process runner with a Bash log analyzer, built for an Operating Systems course assignment. The runner reads shell commands from a file, executes each in a child process with a configurable timeout, and records the result. The analyzer parses the output log and produces a summary report.     
 
 ---
 
